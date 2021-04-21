@@ -1,4 +1,4 @@
-### Hi there, I'm Thanh Nguyen 👋 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
+### Hi there, I'm Thanh Nguyen <img width="50px" height="50px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhqng1510&hide=prs&count_private=true&show_icons=true" />
