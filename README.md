@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![My project](https://github-readme-stats.vercel.app/api/pin/?username=thanhqng1510&repo=Algorithm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My project](https://github-readme-stats.vercel.app/api/pin/?username=thanhqng1510&repo=BigNum)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My project](https://github-readme-stats.vercel.app/api/pin/?username=thanhqng1510&repo=FileServer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhqng1510&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
