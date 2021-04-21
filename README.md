@@ -1,5 +1,8 @@
 ### Hi there, I'm Thanh Nguyen 👋
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_alhatqgp.json"  background="transparent"  speed="1"  style="width: 50px; height: 50px;"  loop controls autoplay></lottie-player>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
