@@ -11,7 +11,7 @@ Nice to meet you !!! 😄😄
 </a>
 <a href="#"><img align="center" src="https://github.com/thanhqng1510/thanhqng1510/blob/main/assets/waving.gif" /></a>
 
-Tech & Tools Preference <br>
+Tech & Tools Preference <br><br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
