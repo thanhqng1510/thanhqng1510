@@ -1,6 +1,6 @@
 ### Hi there, I'm Thanh Nguyen 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="padding-right: 100px;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhqng1510&hide=prs&count_private=true&show_icons=true" />
 </a>
 <a href="#"><img align="center" src="https://github.com/thanhqng1510/thanhqng1510/blob/main/assets/waving.gif" /></a>
