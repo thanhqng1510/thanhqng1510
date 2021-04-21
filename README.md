@@ -1,7 +1,6 @@
 ### Hi there, I'm Thanh Nguyen 👋
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_alhatqgp.json"  background="transparent"  speed="1"  style="width: 50px; height: 50px;"  loop controls autoplay></lottie-player>
+![Baymax](https://github.com/thanhqng1510/thanhqng1510/blob/main/assets/waving.gif)
 
 Here are some ideas to get you started:
 
