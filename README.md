@@ -1,6 +1,7 @@
 ## Hi there, I'm Thanh Nguyen <img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
 
-I'm a 21-year old technical enthusiast who does web development, application development and ML/DL development. Passionate to contribute open-source projects and make cool products for users around the world.
+I'm a 21-year old technical enthusiast who does web development, application development and ML/DL development. <br>
+Passionate to contribute open-source projects and make cool products for users around the world. <br>
 Nice to meet you !!! 😄😄
 
 - 🌱 I’m currently at 3rd-year Bachelor Program at HCMUS-Vietnam.
