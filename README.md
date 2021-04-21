@@ -5,6 +5,9 @@
 </a>
 <a href="#"><img align="center" src="https://github.com/thanhqng1510/thanhqng1510/blob/main/assets/waving.gif" /></a>
 
+I'm a 21-year old technical enthusiast who does web development, application development and ML/DL development. Passionate to contribute open-source projects and make cool products for users around the world.
+Nice to meet you !!! 😄😄
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
