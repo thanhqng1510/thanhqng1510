@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Thanh Nguyen 👋
 
 Here are some ideas to get you started:
 
@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
