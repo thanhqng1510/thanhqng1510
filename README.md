@@ -1,12 +1,6 @@
 ## Hi there, I'm Thanh Nguyen <img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
 
-I'm a technical enthusiast who does web development, application development and ML/DL development. <br>
-Passionate to contribute open-source projects and make cool products for users around the world. <br>
-Nice to meet you !!! 😄😄
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhqng1510&hide=prs&count_private=true&show_icons=true" />
-</a>
+I am dedicated to contributing to open-source projects and creating innovative products for users globally that actually works and solve real world problems. It is a pleasure to meet you.
 
 ### Tech & Tools Preference <br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
